@@ -6,9 +6,11 @@
 ## 许可证
 严格的 AGPL-3.0 协议，分发衍生作品时，必须以 GPL-3.0 开源全部代码，通过网络提供服务（SaaS）时也必须开源
 
-## 版权
+## 版权说明
 
-Copyright (C) 2026 Ironhide Game Studio
+本项目为《王国保卫战》（Kingdom Rush）系列同人作品，与 Ironhide Game Studio 无官方关联。
 
-本程序为自由软件，基于 GNU Affero General Public License v3.0 或更高版本发布。
-详见 [LICENSE](./LICENSE) 文件。
+- **原作版权**：Kingdom Rush 及所有相关角色、设定、美术版权归 © Ironhide Game Studio 所有。
+- **同人原创内容**：本仓库中的代码、原创设定及新增内容版权归 © 2026 铁皮 所有，基于 AGPL-3.0 发布。
+
+本项目仅供学习交流，不涉及商业盈利。若 Ironhide Game Studio 提出异议，将立即配合处理。
