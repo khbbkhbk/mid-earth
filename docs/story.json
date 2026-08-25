@@ -8,7 +8,7 @@
   },
   "sections": [
     {
-      "id": "ecc2697f-a66d-4e67-abc1-e36df55d057b",
+      "id": "e38e47f4-1bd1-45ff-aed1-4176a001c244",
       "hero": "艾纳妮",
       "chapter": "序章",
       "glow": "",
@@ -33,7 +33,7 @@
       "titleHtml": "<span class=\"highlight\">艾纳妮</span> —— 精灵一族的创造者"
     },
     {
-      "id": "831d5111-aa83-4960-8076-337e621beb48",
+      "id": "d5b52846-40fd-4627-ad08-8cab4121c891",
       "hero": "Origins",
       "chapter": "守望者 · 浮士德",
       "glow": "light-purple",
@@ -62,7 +62,7 @@
       "titleHtml": "<span class=\"highlight\">浮士德</span> —— 遗泽的守望者"
     },
     {
-      "id": "520e6f9f-db2a-4e83-95ae-ec1c44169af7",
+      "id": "2d243230-65c0-4080-aab9-f9e02b843dc2",
       "hero": "Origins",
       "chapter": "腐化 · 起源",
       "glow": "light-purple",
@@ -84,7 +84,7 @@
       "titleHtml": "<span class=\"highlight\">浮士德</span>的故事"
     },
     {
-      "id": "0b23d210-5b09-42f5-973f-019cb28cf7a6",
+      "id": "1cfa5147-5717-4626-a40a-454c5f1af40b",
       "hero": "bonehart",
       "chapter": "堕落 · 伯恩哈特",
       "glow": "emerald",
@@ -106,7 +106,7 @@
       "titleHtml": "<span class=\"highlight\">伯恩哈特</span> —— 枯骨中的黑暗"
     },
     {
-      "id": "53e8a5e0-7a6a-4a81-b2f2-43405c741f2a",
+      "id": "bc12784a-d0bd-403d-93d7-99dd69de0c90",
       "hero": "bonehart",
       "chapter": "长眠 · 冰川飞龙",
       "glow": "emerald",
@@ -124,7 +124,7 @@
       "titleHtml": "<span class=\"highlight\">冰川飞龙</span> —— 安息之战"
     },
     {
-      "id": "007d2071-0fb4-4b0b-8a11-d9b266e62d87",
+      "id": "aa1ee9e6-cb7f-45db-ba04-b1e2ba7d5892",
       "hero": "bonehart",
       "chapter": "复活 · 维兹南",
       "glow": "emerald",
@@ -146,7 +146,7 @@
       "titleHtml": "<span class=\"highlight\">维兹南</span> —— 死而复生"
     },
     {
-      "id": "131de733-d82b-444a-89c5-2e663d569269",
+      "id": "8d8f160f-a57e-4f17-8c2a-a3c13fc41477",
       "hero": "bonehart",
       "chapter": "回归 · 故土",
       "glow": "emerald",
@@ -172,7 +172,7 @@
       "titleHtml": "<span class=\"highlight\">伊利丹</span> —— 未识的故人"
     },
     {
-      "id": "ad4a6cef-3a55-4dc1-b84a-5fc83897fe50",
+      "id": "9cc84ed6-d4b8-409d-9e3a-e53d78d6e045",
       "hero": "bonehart",
       "chapter": "守护 · 三殇之殿",
       "glow": "emerald",
@@ -190,7 +190,7 @@
       "titleHtml": "<span class=\"highlight\">伯恩哈特</span> —— 守灵者"
     },
     {
-      "id": "079fd461-45f4-4a86-ac5d-c1b9f8c44db4",
+      "id": "422664b1-21ad-40a5-bad1-a3d77a561516",
       "hero": "Origins",
       "chapter": "公主 · 艾莉瑞娅",
       "glow": "light-purple",
@@ -212,7 +212,7 @@
       "titleHtml": "<span class=\"highlight\">艾莉瑞娅</span> —— 王室最后的血脉"
     },
     {
-      "id": "9b0ebbae-7276-4f55-9bd4-7915100f1e15",
+      "id": "c4abb6ae-0277-490b-9c24-be4fefcebf54",
       "hero": "Primordials",
       "chapter": "秩序 · 银橡森林",
       "glow": "white",
@@ -233,7 +233,7 @@
       "titleHtml": "<span class=\"highlight\">银橡森林</span> —— 新家园"
     },
     {
-      "id": "2d6de4c5-8d99-4f21-beeb-b6306a4ec050",
+      "id": "0b735152-7625-4e15-8a08-5528f37c8650",
       "hero": "Vengeance",
       "chapter": "传承 · 艾纳妮之剑",
       "glow": "purple",
@@ -255,7 +255,7 @@
       "titleHtml": "<span class=\"highlight\">艾纳妮之剑</span> —— 王权的象征"
     },
     {
-      "id": "629b8a30-7c89-4ae6-84bd-f53a66129c96",
+      "id": "d30be1cb-6117-4563-b6f6-a29437b177c6",
       "hero": "Legends",
       "chapter": "暮光 · 雷格森",
       "glow": "deep-blue",
@@ -273,7 +273,7 @@
       "titleHtml": "<span class=\"highlight\">雷格森</span> —— 暮光精灵王子"
     },
     {
-      "id": "f9c070eb-c6e6-4ee7-8072-76aeea8123ae",
+      "id": "713b4b8f-4e8d-47c5-a865-4c03cb89a165",
       "hero": "Genesis",
       "chapter": "启程 · 新篇章",
       "glow": "ice",
