@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "title": "王国保卫战编年史",
+    "subtitle": "一部以「纪元」为脉络、以神器与命运为主轴的宏大史观",
+    "subtitle_en": "An epic historiography of the \"Epochs\", centered on divine artifacts and destiny",
+    "icon": "⚜",
+    "quote": "当星辰陨落，月华消逝，唯有守护者的灵魂与至宝相连，跨越生死，穿越时光，在命运的长河中守望永恒"
+  },
+  "sections": [
+    {
+      "id": "ac7af8be-b23d-436a-bf88-5e8d537a3c49",
+      "hero": "艾纳妮",
+      "chapter": "序章",
+      "glow": "",
+      "badge": "The Creation",
+      "title": "艾纳妮 —— 精灵一族的创造者",
+      "highlight": "艾纳妮",
+      "music": "kr3_map",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p><span class=\"keyword\">艾纳妮</span>，南方大陆精灵一族的创造者。她在生前选定浮士德作为精灵族的守护者，并将其灵魂与自己的至宝——后世所称的\"艾纳妮之泪\"——紧密相连。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>岁月流转，<em class=\"location\">精灵王国</em>日渐繁荣，与南方大陆的其它生灵和睦共处，更与暮光精灵的王室缔结盟约，世代修好。浮士德亲历了精灵族的兴盛，亦目睹了艾纳妮的逝去。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>她遗留的强大魔力凝入艾纳妮之泪，化为庇护王国的永恒屏障；而她的佩剑——艾纳妮之剑，则由王室世代传承，成为王权的象征。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">艾纳妮</span> —— 精灵一族的创造者"
+    },
+    {
+      "id": "735001f9-0779-45f8-ae2e-e29f56f31c2d",
+      "hero": "Origins",
+      "chapter": "守望者 · 浮士德",
+      "glow": "light-purple",
+      "badge": "The Watcher",
+      "title": "浮士德 —— 遗泽的守望者",
+      "highlight": "浮士德",
+      "music": "kr3_map",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>然而，强大的魔法也招致了潜藏在黑暗中的觊觎。纵使有凌空而建的浮城（The Soaring Ruins）、环绕如盾的峰阵（Shieldwall Range）、<em class=\"location\">永聚山脉</em>（Evermeet Mountains）的天险作为依仗，也终究未能阻挡敌对势力的渗透与侵袭，甚至特殊的地形反倒成了蜘蛛势力滋长蔓延的温床。如今，精灵一族也开始考虑离开这座世代栖居之地，向西寻觅新的家园。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p><span class=\"keyword\">浮士德</span>虽愿随族人西迁，心中却对这片精灵发源之地怀有深深眷恋。临行之际，精灵一族以星辰为顶、以月华为壁，为艾纳妮筑起一座神殿（Shrine of Elynie），并在其中立起神像以供奉艾纳妮之泪，而与艾纳妮之泪命运交织、灵魂共鸣的浮士德，便栖居于此，成为这份遗泽的守望者。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>此后岁月，浮士德也会离开神殿，游历四方，见证精灵王国的文明在遥远的土地上开花结果；每逢王室子嗣于钟声与颂歌中降生，也会前往送上祝福。王国内每一位想要习得高阶魔法的法师，都需要徒步前往那座矗立于世界边缘的神殿——途中的艰险，被法师们视为通往奥术之途的试炼。</p>"
+        },
+        {
+          "type": "blockquote",
+          "html": "<div class=\"quote-block\">但这一切，在《起源》之后随之改变。</div>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">浮士德</span> —— 遗泽的守望者"
+    },
+    {
+      "id": "29e77fe1-d3ce-4a35-a756-8201845f152c",
+      "hero": "Origins",
+      "chapter": "腐化 · 起源",
+      "glow": "light-purple",
+      "badge": "The Corruption",
+      "title": "浮士德的故事",
+      "highlight": "浮士德",
+      "era": "Origins",
+      "music": "kr3_menu",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p><span class=\"dark-keyword\">蜘蛛女王</span>腐化了艾纳妮之泪的精魄，同时也腐蚀了<span class=\"keyword\">浮士德</span>的灵魂。受黑暗力量的侵染，他逐渐摒弃了古老的龙族巫术，转而沉溺于黑暗魔法——那股力量吞噬了他的血肉，只留下一副枯骨。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>《起源》战后的精灵一族见到浮士德的次数逐年减少，直至某一日，他彻底消隐于世间。精灵们也曾试图寻回这位守护者，却终无所获，彼时的他们正经历家园毁灭、艾纳妮之泪腐化等一系列重创，在鑫（Xin）等人的帮助下重建精灵王国，浮士德的腐化使其与精灵一族骤然断开了联结，许多精灵陷入绝望，迷失了方向。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">浮士德</span>的故事"
+    },
+    {
+      "id": "7a1bdb09-f016-4e0b-bc0b-3b59ae80850a",
+      "hero": "bonehart",
+      "chapter": "堕落 · 伯恩哈特",
+      "glow": "emerald",
+      "badge": "The Fallen",
+      "title": "伯恩哈特 —— 枯骨中的黑暗",
+      "highlight": "伯恩哈特",
+      "era": "Frontiers",
+      "music": "kr2_map",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>腐化后的<span class=\"keyword\">浮士德</span>循着与艾纳妮之泪的零星感应，离开了南方大陆，跨越<em class=\"location\">水晶海</em>（Crystal Sea）抵达北方大陆，此时正值《前线》时期，艾纳妮之泪已被马拉加尔带往<em class=\"location\">余烬峰山</em>（Emberspike Mountain）的深处，浮士德协助利尼维亚联军击败了安布拉，也由此获得了新的名讳——<span class=\"keyword\">伯恩哈特</span>（Bonehart）。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>然而，在混战之中，长期潜藏于北方大陆的<span class=\"dark-keyword\">全视之慧眼（Overseer）</span>信徒暗中拾取了遗落在战场上的艾纳妮之泪，并用魔法将其传送至<em class=\"location\">虚空维度</em>，进献于他们的主人。浮士德与艾纳妮之泪的联系近乎瞬间断裂，陷入了短暂的自我迷失。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">伯恩哈特</span> —— 枯骨中的黑暗"
+    },
+    {
+      "id": "33b8378f-a284-4c45-9087-7af2f9ecee57",
+      "hero": "bonehart",
+      "chapter": "长眠 · 冰川飞龙",
+      "glow": "emerald",
+      "badge": "The Eternal Slumber",
+      "title": "冰川飞龙 —— 安息之战",
+      "highlight": "冰川飞龙",
+      "era": "Frontiers",
+      "music": "kr2_map",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>《前线》战后，伯恩哈特于北方寻得一处寒冷的栖所，然其存在本身即为周遭生灵带来无序与灾厄，<span class=\"keyword\">冰川飞龙</span>（JOKULL）为此与其鏖战数日，最终伯恩哈特败亡，获得了期盼已久的安息。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">冰川飞龙</span> —— 安息之战"
+    },
+    {
+      "id": "941a5c6a-1e89-4b53-8011-16f0ce578ff5",
+      "hero": "bonehart",
+      "chapter": "复活 · 维兹南",
+      "glow": "emerald",
+      "badge": "The Resurrection",
+      "title": "维兹南 —— 死而复生",
+      "highlight": "维兹南",
+      "era": "Vengeance",
+      "music": "kr4_map",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>岁月流转至《复仇》时期，<span class=\"keyword\">维兹南</span>在进军冰川飞龙（JOKULL）巢穴的途中，偶然发现了伯恩哈特的遗骸。凭借其强大的黑暗法术，维兹南重塑其形骸，重聚其灵魄，将伯恩哈特从死亡中唤回。为了报答维兹南的恩情，伯恩哈特协助其击败了昔日将自己送入长眠的<span class=\"dark-keyword\">冰川飞龙（JOKULL）</span>，随后离开了维兹南的队伍——也因此错过了与艾莉瑞雅的重逢。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>尽管身体历经腐化与重生，灵魂深处的本能依旧使伯恩哈特与艾纳妮之泪之间维系着某种微妙的感应。每一次复明教会的信徒开启通往<em class=\"location\">虚空维度</em>的传送门，都会在他枯寂的心中激起悸动。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">维兹南</span> —— 死而复生"
+    },
+    {
+      "id": "dbebf455-88c7-410b-baf3-8860871b6bb8",
+      "hero": "bonehart",
+      "chapter": "回归 · 故土",
+      "glow": "emerald",
+      "badge": "The Return",
+      "title": "伊利丹 —— 未识的故人",
+      "highlight": "伊利丹",
+      "era": "Alliance",
+      "music": "kr5_map",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>时光荏苒，至《联盟》时期，复明教会在永聚山脉南部的<em class=\"location\">峡谷高原</em>（Canyon Plateau）筑起巨大的传送门，远在北方的伯恩哈特感受到了自重生以来最为强烈的召唤。他再度动身，前往那片久违的故土——南方大陆。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>见到昔日的战友<span class=\"keyword\">伊利丹</span>与精灵族人时，伯恩哈特某种沉睡的记忆似乎被唤醒。然而选择了剑术的伊利丹与其麾下的精灵战士，并未认出这位昔日的守护者。唯有精灵观星者有所察觉，但经历过《前线》战争的沙丘哨兵以及维兹南麾下的部分士兵将领已将他的新名讳传开，使其在大敌当前之际舍弃了寻回昔日守护者的念想。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>出于《复仇》时期伯恩哈特对维兹南进攻北国的协助，战争酿酒师拒绝伯恩哈特加入利尼维亚联军，伯恩哈特遂再次归入维兹南的阵营。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">伊利丹</span> —— 未识的故人"
+    },
+    {
+      "id": "88c40bef-c3f3-41a5-b21c-2062210136ab",
+      "hero": "bonehart",
+      "chapter": "守护 · 三殇之殿",
+      "glow": "emerald",
+      "badge": "The Vigil",
+      "title": "伯恩哈特 —— 守灵者",
+      "highlight": "伯恩哈特",
+      "era": "Alliance",
+      "music": "kr5_map",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>《联盟》战后，<span class=\"keyword\">伯恩哈特</span>与精灵一族相认，因自身的存在会为周遭生灵带来灾厄，伯恩哈特决定独自留守<em class=\"location\">三殇之殿</em>（Temple Of The Fallen），余生守护这些在《起源》时期中战死的英灵。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">伯恩哈特</span> —— 守灵者"
+    },
+    {
+      "id": "919b5e93-7205-46b1-8047-bf2ac8edf169",
+      "hero": "Origins",
+      "chapter": "公主 · 艾莉瑞娅",
+      "glow": "light-purple",
+      "badge": "The Last Bloodline",
+      "title": "艾莉瑞娅 —— 王室最后的血脉",
+      "highlight": "艾莉瑞娅",
+      "era": "Origins",
+      "music": "kr3_menu",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>作为精灵王国王室最后的血脉，精灵公主<span class=\"keyword\">艾莉瑞娅</span>在<em class=\"location\">狮鹫角</em>（Gryphon Point）成功突围，摆脱了豺狼人的围攻，继而乘狮鹫北上，抵达南港——利尼维亚对外的通商口岸，也是利尼维亚与精灵王国接洽的港口。在前往<em class=\"location\">利尼维亚城堡</em>的途中，艾莉瑞娅一行受到了<em class=\"location\">银橡森林</em>中森林精灵的热情款待。彼时的森林精灵时常遭受兽人、哥布林、蜘蛛等族群的袭扰，密林深处的恶意从未止息，外来的流民部族日益壮大，四处流窜，森林内部秩序全无。他们渴盼着一位领导者能重整秩序。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>艾莉瑞娅应允了森林精灵的请求，成为了银橡森林中森林精灵的领导者，随行队伍也被安置于此：狮鹫成为《联盟》时期布罗登（Broden）坐骑的先祖，精灵战士则成为《初代》游侠的箭术启蒙，德鲁伊成为《初代》游侠的法术与药学启蒙，并在《初代》战争中与游侠协助利尼维亚军队反攻。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">艾莉瑞娅</span> —— 王室最后的血脉"
+    },
+    {
+      "id": "8d7a19c7-fc54-4db8-9ba5-cd551e4a36e9",
+      "hero": "Primordials",
+      "chapter": "秩序 · 银橡森林",
+      "glow": "white",
+      "badge": "The Silver Oaks",
+      "title": "银橡森林 —— 新家园",
+      "highlight": "银橡森林",
+      "music": "krl_tutorial",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>在<span class=\"keyword\">艾莉瑞娅</span>的领导下，<em class=\"location\">银橡森林</em>重归秩序，森林精灵与其它部族和平地栖息于此，休养生息，艾莉瑞娅在银橡森林的深处（西侧）立起了艾纳妮神像，尽管已经失去了艾纳妮之泪，但她仍以相似的宝石作为替代，冀望在远离故土之处寻得一丝家乡的气息。艾纳妮亦逐渐成为森林精灵供奉的对象，林间各处可见祭坛与神像。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>在精灵王国重建期间，艾莉瑞娅放弃了王室身份，成为利尼维亚与精灵王国的外交大使，精灵王国亦改制为议会制。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">银橡森林</span> —— 新家园"
+    },
+    {
+      "id": "d74711d9-a6d6-440d-9330-ed174f6d3af3",
+      "hero": "Vengeance",
+      "chapter": "传承 · 艾纳妮之剑",
+      "glow": "purple",
+      "badge": "The Sword of Elynie",
+      "title": "艾纳妮之剑 —— 王权的象征",
+      "highlight": "艾纳妮之剑",
+      "era": "Vengeance",
+      "music": "kr4_map",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>《起源》战后，艾纳妮之剑作为此次战争援助的谢礼，被<span class=\"keyword\">艾莉瑞娅</span>赠予当时的利尼维亚国王。后来国王驾崩，迪纳斯继位，艾纳妮之剑遂被供奉于城堡深处。直至《复仇》时期，维兹南攻入城堡与迪纳斯对峙，迪纳斯与艾纳妮之剑一同被传送至南方大陆。</p>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>尽管艾莉瑞娅成功逃往北方大陆，<span class=\"dark-keyword\">玛丽西娅</span>（Malicia）的妹妹艾妮尔仍派遣了一小队暮光精灵心腹尾随而至。这些心腹后来也潜入了<em class=\"location\">银橡森林</em>，伺机刺杀艾莉瑞娅——即便南方战事已息，叛乱的暮光精灵已经覆灭。这批暮光精灵后来成为<span class=\"dark-keyword\">维兹南</span>进攻<em class=\"location\">银橡岗哨</em>时的助力。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">艾纳妮之剑</span> —— 王权的象征"
+    },
+    {
+      "id": "8a3fb561-06c7-4364-953e-9b05e889ccd5",
+      "hero": "Legends",
+      "chapter": "暮光 · 雷格森",
+      "glow": "deep-blue",
+      "badge": "The Twilight Elf Prince",
+      "title": "雷格森 —— 暮光精灵王子",
+      "highlight": "雷格森",
+      "era": "Legends",
+      "music": "krl_map",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>辗转至《传奇》时期，听闻北方大陆仍遗留《起源》时期的逆党余孽，暮光精灵王室的王子<span class=\"keyword\">雷格森</span>只身前往，原打算与艾莉瑞娅汇合，协力铲除。然而抵达大陆时，他才惊觉<em class=\"location\">南港</em>已沦为废墟，利尼维亚全境陷落。</p>"
+        }
+      ],
+      "titleHtml": "<span class=\"highlight\">雷格森</span> —— 暮光精灵王子"
+    },
+    {
+      "id": "dab68065-9190-4406-b844-fab864e839b7",
+      "hero": "Genesis",
+      "chapter": "启程 · 新篇章",
+      "glow": "ice",
+      "badge": "Unfinished Legend",
+      "title": "未完的传说",
+      "highlight": "传说",
+      "era": "Genesis",
+      "music": "kr6_map",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "html": "<p>篇章未竟，笔锋未停，未竟的史诗，仍在时光中续写</p>"
+        }
+      ],
+      "titleHtml": "未完的<span class=\"highlight\">传说</span>"
+    }
+  ]
+}
